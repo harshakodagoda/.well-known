@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kodagoda.linktest",
+    "sha256_cert_fingerprints":
+    ["61:84:02:5E:7A:65:24:E3:CB:C8:F2:5E:83:EB:E0:56:AB:9E:CE:88:6E:CE:AB:7D:1B:35:03:45:8B:9D:B4:CD"]
+  }
+}]
